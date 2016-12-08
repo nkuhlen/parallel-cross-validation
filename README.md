@@ -1,1 +1,1 @@
-# parallel-cross-validation
+This project makes use of the ipyparallel package to perform Monte Carlo cross validation over a grid of parameters in parallel on a multicore machine. To execute the code, you need to install the package and start a local cluster on your computer. To be able to do this, follow the instructions [here](http://ipyparallel.readthedocs.io/en/latest/).
